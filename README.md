@@ -6,3 +6,6 @@
 
 2. Change branch
  * `git branch -m BRANCHNAME`
+
+# Resource for good ignore files.
+https://github.com/chriscourses/web-application-development-for-beginners
